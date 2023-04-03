@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, football, and nature
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me 337-706-4576 or Jason_buller94@yahoo.com
+- 📫 How to reach me @ Jason_buller94@yahoo.com
 
 <!---
 Jasonbuller94/Jasonbuller94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
